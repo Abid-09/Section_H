@@ -1,0 +1,46 @@
+[
+    {
+        "Name": "fahad",
+        "Email": "fahad@gmail.com",
+        "Password": "09876543",
+        "Confirm Password": "09876543",
+        "Phone Number": "9",
+        "Address": "y",
+        "Gender": "male",
+        "National ID Card": "09876543",
+        "Date Of Birth": "2022-11-15"
+    },
+    {
+        "Name": "abid",
+        "Email": "bappiislam31@gmail.com",
+        "Password": "12345678",
+        "Confirm Password": "12345678",
+        "Phone Number": "01743845441",
+        "Address": "afasfasfsa",
+        "Gender": "male",
+        "National ID Card": "12345678910",
+        "Date Of Birth": "2022-11-16"
+    },
+    {
+        "Name": "abid18",
+        "Email": "bappiislam31@gmail.com",
+        "Password": "12345678",
+        "Confirm Password": "12345678",
+        "Phone Number": "01743845441",
+        "Address": "fdsfafa",
+        "Gender": "male",
+        "National ID Card": "12345678910",
+        "Date Of Birth": "2022-11-21"
+    },
+    {
+        "Name": "abid",
+        "Email": "hasanmollah151@gmail.com",
+        "Password": "12345678",
+        "Confirm Password": "12345678",
+        "Phone Number": "01628311960",
+        "Address": "fsdafaf",
+        "Gender": "male",
+        "National ID Card": "12345678910",
+        "Date Of Birth": "2022-11-15"
+    }
+]
